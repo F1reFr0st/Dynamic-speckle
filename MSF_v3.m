@@ -1,3 +1,6 @@
+# Heading
+###### Heading
+
 %% Read image
 clear
 clc
