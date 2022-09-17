@@ -71,4 +71,3 @@ for n_set = 1:number_of_images_in_set:nfiles % Go through all images, seperated 
     activity_map = zeros(image_height,image_width);
 end
 toc
-
