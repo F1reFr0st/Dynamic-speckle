@@ -1,4 +1,4 @@
-%% Enter settings
+%% Enter setting
 clear
 clc
 close all
