@@ -3,6 +3,7 @@ clear
 clc
 close all
 
+%Hi, bro
 Folder_path % Setup file extension and folder path
 
 % Find and show number of images in the folder
