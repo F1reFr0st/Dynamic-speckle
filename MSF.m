@@ -53,7 +53,7 @@ for n_set = 1:number_of_images_in_set:nfiles % Go through all images, seperated 
     imshow(activity_map, "Colormap", turbo, 'DisplayRange', [ ]);
     title(sprintf('Set: %d - %d, m step: %d', n_set, n_set+number_of_images_in_set-1, m))    
     colorbar;
-
+    activity_map = 0;
 end
 toc
 
